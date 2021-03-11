@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Su Kim</h1>
-<h3 align="center">Normal Developer</h3>
+<h3 align="center">IoT Device Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rlatn1234&label=Profile%20views&color=0e75b6&style=flat" alt="rlatn1234" /> </p>
 
